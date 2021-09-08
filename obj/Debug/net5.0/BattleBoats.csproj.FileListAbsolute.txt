@@ -1,0 +1,16 @@
+C:\Users\teyka\Documents\BattleBoats\bin\Debug\net5.0\BattleBoats.exe
+C:\Users\teyka\Documents\BattleBoats\bin\Debug\net5.0\BattleBoats.deps.json
+C:\Users\teyka\Documents\BattleBoats\bin\Debug\net5.0\BattleBoats.runtimeconfig.json
+C:\Users\teyka\Documents\BattleBoats\bin\Debug\net5.0\BattleBoats.runtimeconfig.dev.json
+C:\Users\teyka\Documents\BattleBoats\bin\Debug\net5.0\BattleBoats.dll
+C:\Users\teyka\Documents\BattleBoats\bin\Debug\net5.0\ref\BattleBoats.dll
+C:\Users\teyka\Documents\BattleBoats\bin\Debug\net5.0\BattleBoats.pdb
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.csprojAssemblyReference.cache
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.AssemblyInfoInputs.cache
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.AssemblyInfo.cs
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.csproj.CoreCompileInputs.cache
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.dll
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\ref\BattleBoats.dll
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.pdb
+C:\Users\teyka\Documents\BattleBoats\obj\Debug\net5.0\BattleBoats.genruntimeconfig.cache
