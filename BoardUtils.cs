@@ -1,3 +1,8 @@
+﻿//Archie Cooke
+//08/09/2021
+//Battle Boats
+//Version 1
+
 using System;
 
 namespace BattleBoats
